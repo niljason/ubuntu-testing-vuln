@@ -1,0 +1,8 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-10-25 18:08 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000012s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT    STATE SERVICE
+631/tcp open  ipp
+
+Nmap done: 1 IP address (1 host up) scanned in 2.77 seconds
